@@ -1,0 +1,7 @@
+path: M:\VK_ML_tech_task\yolo_dataset_vk
+
+train: images/train  # Относительно path
+val: images/val      # Относительно path
+
+nc: 2
+names: ['logo', 'VK']
