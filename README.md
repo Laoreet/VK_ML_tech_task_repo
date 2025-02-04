@@ -24,7 +24,7 @@ VK_ML_tech_repo/
 ## Как использовать
 1. Клонируйте репозиторий:
     ```
-    git clone <ДОБАВИТЬ URL РЕПЫ>
+    git clone https://github.com/Laoreet/VK_ML_tech_task_repo.git
     ```
 
 2. Создайте виртуальное окружение:
